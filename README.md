@@ -1,5 +1,4 @@
 # Zukkefo GA.
-Call Service Company
+Call Service Company ~ 305-ZUKKEFO
 
-[305-ZUKKEFO](tel:3059855336)
 ![Image](/zukkefo.png)
