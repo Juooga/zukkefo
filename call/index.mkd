@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://google.com
+redirect_url: https://zukkefo.com/
 ---
