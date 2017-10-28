@@ -1,4 +1,4 @@
 ---
-layout: call
+layout: redirect
 redirect_url: tel:3059855336
 ---
