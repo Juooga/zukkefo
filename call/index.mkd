@@ -1,4 +1,4 @@
 ---
-layout: redirect
+layouts: redirect
 redirect_url: https://google.com
 ---
