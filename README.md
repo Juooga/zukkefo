@@ -1,4 +1,3 @@
-# Zukkefo GA.
-Call Service Company ~ 305-ZUKKEFO
+# Zukkefo 
 
 ![Image](/zukkefo.png)
